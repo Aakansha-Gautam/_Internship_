@@ -7,7 +7,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from full import full_image
-# from element_ss import element_image
+from element_ss import element_image
 
 search_query=input("Enter the word to be searched: ")
 def get_value():
@@ -29,12 +29,12 @@ def get_value():
         if not os.path.exists(f"{image_path}\\{search_query}"):
             os.makedirs(f"{image_path}\\{search_query}")
         full_image(image_path,search_query,driver)
-        # element_image(image_path,search_query,driver)
+        element_image(image_path,search_query,driver)
         main=driver.find_elements(By.XPATH,'//div[contains(@class,"box--ujueT")]')
         t=all_value(main)[0]
         p=all_value(main)[1]
         l=all_value(main)[2]
-        create_csv(search_query,t,p,l)
+        # create_csv(search_query,t,p,l)
     finally:
         print("Value stored")
 def all_value(main):
