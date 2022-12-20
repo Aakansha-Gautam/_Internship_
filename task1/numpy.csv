@@ -1,6 +1,0 @@
-Search_Query,Title,Description,Link
-numpy,Introduction to NumPy - W3Schools,"NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.",https://www.w3schools.com/python/numpy/numpy_intro.asp
-numpy,numpy · PyPI,NumPy is a community-driven open source project developed by a diverse group of contributors. The NumPy leadership has made a strong commitment to creating ...,https://pypi.org/project/numpy/
-numpy,NumPy - Wikipedia,"NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of ...",https://en.wikipedia.org/wiki/NumPy
-numpy,Python Numpy Tutorial (with Jupyter and Colab),"Numpy is the core library for scientific computing in Python. It provides a high-performance multidimensional array object, and tools for working with these ...",https://cs231n.github.io/python-numpy-tutorial/
-numpy,Computation on NumPy Arrays: Universal Functions,"This section motivates the need for NumPy's ufuncs, which can be used to make repeated calculations on array elements much more efficient. It then introduces ...",https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html
