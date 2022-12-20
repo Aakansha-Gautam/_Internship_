@@ -1,0 +1,6 @@
+Search_Query,Title,Description,Link
+xpath,XPath Tutorial - W3Schools,"XPath stands for XML Path Language · XPath uses ""path like"" syntax to identify and navigate nodes in an XML document · XPath contains over 200 built-in functions ...",https://www.w3schools.com/xml/xpath_intro.asp
+xpath,XPath Syntax - W3Schools,XPath uses path expressions to select nodes or node-sets in an XML document. The node is selected by following a path or steps.,https://www.w3schools.com/xml/xpath_syntax.asp
+xpath,XPath - Wikipedia,XPath (XML Path Language) is an expression language designed to support the query or transformation of XML documents. It was defined by the World Wide Web ...,https://en.wikipedia.org/wiki/XPath
+xpath,XPath - MDN Web Docs,  XPath stands for XML Path Language. It uses a non-XML syntax to provide a flexible way of addressing (pointing to) different parts of an XML ...,https://developer.mozilla.org/en-US/docs/Web/XPath
+xpath,Xpath cheatsheet - Devhints,"Works in Firefox and Chrome. #Selectors. Descendant selectors. CSS, Xpath ? h1 ...",https://devhints.io/xpath
